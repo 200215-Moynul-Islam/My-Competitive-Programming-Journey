@@ -5,7 +5,7 @@ This folder contains all the important resources which i think important to lear
   1. **Best Tutorial:**
   This folder contains all the best video tutorials in various topics in my opinion.
   2. **Additional Tutorial:**
-  This folder contains all the additional video tutorials in various topics which you can learn after completing the Best Tutorial.
+  This folder contains all the additional video tutorials in various topics which you can watch after completing the Best Tutorial.
 ### 2. Online Judge Solution:
   1. **Codeforces:** This folder contains all the problems solutions of codeforces which i have already solved in my competitive programming journey.
   2. **Lightoj:** This folder contains all the problems solutions of lightoj which i have already solved in my competitive programming journey.
